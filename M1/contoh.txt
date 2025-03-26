@@ -1,0 +1,4 @@
+-- Ini adalah isi File contoh.txt ---
+1. Contoh Pembacaan file dengan Python
+2. Ini baris kedua
+3. Ini baris terakhir
