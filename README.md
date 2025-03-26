@@ -9,7 +9,7 @@ Sebelum memulai belajar Python, pastikan Anda telah _menginstall_ Python dan [Pr
 
  1. Unduh dan Instal Python
  - Kunjungi situs resmi Python: https://www.python.org/downloads/
- - Unduh versi terbaru Python untuk sistem operasi Anda (Windows, macOS, atau Linux).
+ - Unduh versi terbaru Python untuk sistem operasi  (Windows, macOS, atau Linux).
  - Saat instalasi, pastikan mencentang opsi "Add Python to PATH".
 
  2. Instal Paket Python
